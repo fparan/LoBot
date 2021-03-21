@@ -1,0 +1,2 @@
+# LoBot
+a discord bot
